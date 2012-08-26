@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contributing Changes
+---
+
 ###In order to contribute a change to this site:
 * Make a github account
 * set up a <a href="https://github.com/r-webdev/r-webdev/fork_select">fork</a> of <a href="https://github.com/r-webdev/r-webdev/">this repository</a>
